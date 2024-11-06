@@ -1,5 +1,5 @@
-Cifra de César e cifra por transposição:\n
-  -César
+Cifra de César e cifra por transposição:
+-César
     -Descriptografar:
       -Força Bruta:
         -Viável para o problema, pois o maior deslocamento é de 26 casas, letras do alfabeto.
