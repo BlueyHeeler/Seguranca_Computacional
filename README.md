@@ -1,4 +1,4 @@
-Cifra de César e cifra por transposição:
+Cifra de César e cifra por transposição:\n
   -César
     -Descriptografar:
       -Força Bruta:
