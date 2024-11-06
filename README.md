@@ -22,5 +22,5 @@
       - Quanto maior a chave utilizada, mais difícil será de descriptografar por meio da força bruta.
 
 ## Referência
-- [Análise de Frequência](https://www.gta.ufrj.br/grad/06_2/alexandre/criptoanalise.html)
+- https://www.gta.ufrj.br/grad/06_2/alexandre/criptoanalise.html
 
